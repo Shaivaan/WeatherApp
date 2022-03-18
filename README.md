@@ -18,7 +18,7 @@ In this app you search search weather all the places over the globe, also you wi
 * Github
 
 
-# Images
+# Image
 ![Screenshot (33)](https://user-images.githubusercontent.com/93570605/158990454-344ca6b5-a3f4-4015-8c6b-d4283a1ac927.png)
 
 
